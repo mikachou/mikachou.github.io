@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = "Michael's page"
 theme = 'hugo-blog-awesome'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [menus]
   [[menus.main]]
     name = 'Home'
