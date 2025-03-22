@@ -1,0 +1,27 @@
+baseURL = 'https://mikachou.github.io/'
+languageCode = 'en-us'
+title = "Michael's page"
+theme = 'hugo-blog-awesome'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+[params]
+  mainSections = []
+
+[params.author]
+  intro = "Michael's page"
+  name = 'Michael Schuh'
+  description = 'Michael Schuh, Software Engineer'
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/mikachou"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/michael-schuh-97600765/"
+
