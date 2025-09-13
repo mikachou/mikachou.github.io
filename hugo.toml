@@ -17,9 +17,14 @@ theme = 'hugo-blog-awesome'
   mainSections = []
 
 [params.author]
-  intro = "Michael's page"
+  intro = "Hi I'm Michael, Software Engineer"
   name = 'Michael Schuh'
-  description = 'Michael Schuh, Software Engineer'
+  description = '''
+  I build reliable systems, streamline workflows with <br>
+  CI/CD, and develop modern web applications. <br>
+  With 16+ years of experience,
+  I enjoy turning complex problems into maintainable solutions.
+  '''
 
 [[params.socialIcons]]
 name = "github"
