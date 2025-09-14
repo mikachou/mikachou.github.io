@@ -23,7 +23,11 @@ theme = 'hugo-blog-awesome'
   I build reliable systems, streamline workflows with <br>
   CI/CD, and develop modern web applications. <br>
   With 16+ years of experience,
-  I enjoy turning complex problems into maintainable solutions.
+  I enjoy turning complex problems into maintainable solutions.<br>
+  <br>
+  <a href="/resume/">View Resume</a>
+  &nbsp;
+  <a href="https://github.com/mikachou">Github</a>
   '''
 
 [[params.socialIcons]]
