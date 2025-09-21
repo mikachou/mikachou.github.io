@@ -39,8 +39,7 @@ weight = 20
 
 # Education & Certifications
 
-- Machine Learning Engineer Program – OpenClassrooms (2021–2022), EQF Level 7 (Master’s
-equivalent). Focus: Python, scikit-learn, TensorFlow, ML pipelines​
+- Machine Learning Engineer Program – OpenClassrooms (2021–2022), EQF Level 7. Focus: Python, scikit-learn, TensorFlow, ML pipelines​
 - Client-Server Architecture Certificate – EPSI Montpellier (2010). Focus: C, C++, Java, SQL, Linux​
 - DUT in Computer Science (2 years Technical University Degree) – University Montpellier II (2009).
 Focus: PHP, Java, SQL, Linux​
