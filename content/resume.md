@@ -15,7 +15,7 @@ weight = 20
 
 ## Mentor & Technical Evaluator (Freelance, 06/2023 - present)
 
-- Mentor aspiring frontend developers (JS, React) and Data Engineers (Python, SQL, Docker, PySpark, ML, Cloud Platforms) at OpenClassrooms
+- Mentor aspiring frontend developers (JS, React) and Data Engineers (Python, SQL, MongoDB, Docker, Redpanda, PySpark, Machine Learning, Cloud Platforms) at OpenClassrooms
 - Board member and evaluator for student projects in system administration, DevOps, application development, and machine-learning at Epsi
 
 ## Full-Stack Developer / Data Engineer (Bertin IT, 03/2016 - 10/2021)
